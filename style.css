@@ -1,0 +1,26 @@
+body {
+    background-color: pink;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    font-size: 54px;
+    font-family: Georgia, sans-serif; 
+}
+
+ul {
+    display: table;
+    margin: 0 auto;
+    list-style-type:circle;
+    text-align: left;
+    color: black;
+}
+li {
+    
+    font-size: 26px;
+}
+
+a {
+    color: black;
+}
